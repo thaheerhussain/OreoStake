@@ -18,17 +18,10 @@ export default () => {
               />
             </a>
             <div className="uppercase text-white text-md mb-3 mt-4 text-left">
-              Follow Us
+              Oreo
             </div>
             <div className="flex flex-row items-center ">
-              <a
-                href="https://instagram.com/lead_wallet"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mr-4"
-              >
-                <img src="/images/sm-instagram.svg" alt="" width="20" />
-              </a>
+              
               <a
                 href="#"
                 target="_blank"
@@ -37,55 +30,7 @@ export default () => {
               >
                 <img src="#" alt="" width="20" />
               </a>
-              <a
-                href="#"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mr-4"
-              >
-                <img src="/images/sm-twitter.svg" alt="" width="20" />
-              </a>
-              <a
-                href="https://www.reddit.com/r/LeadWallet"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mr-4"
-              >
-                <img src="/images/sm-reddit.svg" alt="" width="20" />
-              </a>
-              <a
-                href="https://github.com/leadwallet"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mr-4"
-              >
-                <img src="/images/sm-github.svg" alt="" width="20" />
-              </a>
-              <a
-                href="https://medium.com/@LeadWallet"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mr-4"
-              >
-                <img src="/images/sm-medium.svg" alt="" width="20" />
-              </a>
-              <a
-                href="#"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mr-4"
-              >
-                <img src="/images/sm-telegram.svg" alt="" width="20" />
-              </a>
-              <a
-                href="#"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mr-4"
-              >
-                <img src="/images/sm-discord.svg" alt="" width="20" />
-              </a>
-            </div>
+             </div>
           </div>
           {/* <div className="text-white leading-7 text-xs cursor-pointer">
             <div className="font-Montserrat-ExtraBold uppercase"></div>
@@ -116,7 +61,7 @@ export default () => {
           </div> */}
           <div className="text-white leading-7 text-xs cursor-pointer flex flex-col">
             <div className="font-Montserrat-ExtraBold uppercase">
-              Documentation
+             
             </div>
             <a
               href="#"

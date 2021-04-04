@@ -374,7 +374,7 @@ const HomePage = () => {
           {!accounts && (
             <div className="w-full py-6 text-center">
                  <div id='controls'>
-        <Link id='toggler' to='/' >Switch To Ethereum Chain</  Link>
+        <Link id='toggler' to='/' >Refresh</  Link>
 
     </div>
               <Button
@@ -413,23 +413,7 @@ const HomePage = () => {
                 <Card noLine>
                   <div className="flex flex-col px-2">
                     <div className="text-center pb-4">
-                      <div className="text-white text-xs">
-                        <span className="text-blue-500">Disclaimer</span>{" "}
-                        Staking Smart Contract was audited by{" "}
-                        <a
-                          href="https://immunebytes.com/"
-                          target="_blank"
-                          className="text-blue-500"
-                        >
-                          Immune Bytes
-                        </a>
-                        . Keep in mind that security audits don't fully
-                        eliminate all possible security risks. Use our staking
-                        page at your own risk. <br />
-                        <span className="text-blue-500">Note</span> The Stake
-                        Rewards can be reduced without prior warning, stakers
-                        are advised to claim their rewards daily.
-                      </div>
+                      
                     </div>
                   </div>
                 </Card>
